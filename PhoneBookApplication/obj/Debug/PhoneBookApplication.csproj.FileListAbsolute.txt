@@ -1,0 +1,14 @@
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\bin\Debug\PhoneBookApplication.exe.config
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\bin\Debug\PhoneBookApplication.exe
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\bin\Debug\PhoneBookApplication.pdb
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\bin\Debug\EntityFramework.dll
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\bin\Debug\EntityFramework.SqlServer.dll
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\bin\Debug\EntityFramework.xml
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\bin\Debug\EntityFramework.SqlServer.xml
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\obj\Debug\PhoneBookApplication.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\obj\Debug\PhoneBookApplication.contactdetailfom.resources
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\obj\Debug\PhoneBookApplication.Login.resources
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\obj\Debug\PhoneBookApplication.Properties.Resources.resources
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\obj\Debug\PhoneBookApplication.csproj.GenerateResource.Cache
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\obj\Debug\PhoneBookApplication.exe
+F:\visual studio 2015\PhoneBookApplication\PhoneBookApplication\obj\Debug\PhoneBookApplication.pdb
